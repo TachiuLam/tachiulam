@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ✏️ [blog](https://tclam.cn)
 - 📫 techaolin@gmail.com
 - ⚡ Python
 
