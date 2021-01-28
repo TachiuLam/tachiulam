@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🎓 GDUT 🇨🇳
-- ✏️ [blog](https://tclam.cn)
+- ✏️ [Blog](https://tclam.cn) | [Zhihu](https://www.zhihu.com/people/tachiulam)
 - 📫 techaolin@gmail.com
 - ⚡ Python ｜ Vue.js
 - 🏠 Hacking ｜ Cording ｜ Basketball ｜ Singing
