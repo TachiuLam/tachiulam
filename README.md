@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🎓 GDUT 🇨🇳
 - ✏️ [Blog](https://tclam.cn) | [Zhihu](https://www.zhihu.com/people/tachiulam)
 - 📫 techaolin@gmail.com
-- ⚡ Python ｜ Vue.js | Security
+- ⚡ Python ｜ Vue.js ｜ Security 
 - 🏠 Hacking ｜ Cording ｜ Basketball ｜ Singing
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
