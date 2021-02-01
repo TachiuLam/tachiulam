@@ -31,3 +31,6 @@
 <a href="https://github.com/TachiuLam/TachiuLam">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiulam&layout=compact" width="340" height="280"/>
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
