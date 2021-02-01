@@ -26,8 +26,8 @@
 **📈 My Gihthub Stats:**
 
 <a href="https://github.com/TachiuLam/TachiuLam">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" width="400" height="280" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" width="460" height="250" />
 </a>
 <a href="https://github.com/TachiuLam/TachiuLam">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiulam&layout=compact" width="300" height="280"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiulam&layout=compact" width="340" height="280"/>
 </a>
