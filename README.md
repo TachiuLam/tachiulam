@@ -38,7 +38,7 @@ tachiulam = {
 ```
 ---
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba.gif" width="50"> Languages and Tools：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba2.gif" width="50"> Languages and Tools：
 
 <a href="https://github.com/TachiuLam/TachiuLam">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiulam&layout=compact" width="400" height="auto"/>
