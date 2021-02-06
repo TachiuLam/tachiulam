@@ -11,7 +11,7 @@
 
 <img align='right' sc="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/coding2.GIF" width="230">
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba.GIF" width="50"> Personal Stuffs：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba2.gif" width="50"> Personal Stuffs：
 
 ```python3
 tachiulam = {
@@ -38,7 +38,7 @@ tachiulam = {
 ```
 ---
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba.GIF" width="50"> Languages and Tools：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba3.gif" width="50"> Languages and Tools：
 
 <a href="https://github.com/TachiuLam/TachiuLam">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiulam&layout=compact" width="400" height="auto"/>
@@ -55,10 +55,12 @@ tachiulam = {
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="60" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<br>
+<br>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba.GIF" width="50"> Gihthub Stats：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba2.gif" width="50"> Gihthub Stats：
 
 <a href="https://github.com/TachiuLam/TachiuLam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" width="600"/>
