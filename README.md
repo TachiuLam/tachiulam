@@ -1,4 +1,4 @@
-<h2>Hi there 😶, I'am Tachiu Lam <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba5.gif" width="50"></h2>
+<h2>Hi there 😶, I'am Tachiu Lam <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/aisi.gif" width="80"></h2>
 
 <img align='right' src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/coding2.GIF" width="230">
 
@@ -11,7 +11,7 @@
 
 <img align='right' sc="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/coding2.GIF" width="230">
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/aisi.gif" width="60"> Personal Stuffs：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba5.gif" width="60"> Personal Stuffs：
 
 ```python3
 tachiulam = {
@@ -60,7 +60,7 @@ tachiulam = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/sabo.gif" width="50"> Gihthub Stats：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/sabo.gif" width="60"> Gihthub Stats：
 
 <a href="https://github.com/TachiuLam/TachiuLam">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" width="600"/>
