@@ -11,7 +11,7 @@
 
 <img align='right' sc="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/coding2.GIF" width="230">
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/aisi.gif" width="50"> Personal Stuffs：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/aisi.gif" width="60"> Personal Stuffs：
 
 ```python3
 tachiulam = {
@@ -31,14 +31,14 @@ tachiulam = {
         devOps: ["Kubernetes", "Docker🐳", "Kong", "Centos", "Ubuntu"],
         middleware: ["Nginx", "Redis", "RabbitMQ", "Elasticsearch", "Filebeat", "Kibana"]
         databases: ["MySql", "sqlite"],
-        misc: ["celery", "selenium", "brupsuite", "sqlmap", "masscan", "nmap"]
+        misc: ["suricate", "celery", "selenium", "brupsuite", "sqlmap", "masscan", "nmap"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
 ---
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="50"> Languages and Tools：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Languages and Tools：
 
 <a href="https://github.com/TachiuLam/TachiuLam">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiulam&layout=compact" width="400" height="auto"/>
@@ -73,6 +73,8 @@ tachiulam = {
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+---
 
 <img src="https://imgur.com/rilHVxA.png" />
 <!--img align="center" alt="GIF" src="https://raw.githubusercontent.com/TachiuLam/tachiulam/dev/static/img/coding-freak.gif?raw=true" width="420" height="280" />
