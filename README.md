@@ -29,7 +29,7 @@ tachiulam = {
             python: ["django", "django-rest-framework", "flask"]
         },
         devOps: ["Kubernetes", "Docker🐳", "Kong", "Centos", "Ubuntu"],
-        middleware: ["Nginx", "Redis", "RabbitMQ", "Elasticsearch", "Filebeat", "Kibana"，"Harbor"]
+        middleware: ["Nginx", "Redis", "RabbitMQ", "Elasticsearch", "Filebeat", "Kibana"，"Harbor", "rancher"]
         databases: ["MySql", "sqlite"],
         misc: ["suricate", "celery", "selenium", "brupsuite", "sqlmap", "masscan", "nmap"]
     },
