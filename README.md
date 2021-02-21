@@ -69,9 +69,80 @@ tachiulam = {
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20471%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 110 Contributions in the Year 2021
+ > 
+> 📦 74.1 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    33 commits     █████░░░░░░░░░░░░░░░░░░░░   22.6% 
+🌆 Daytime    70 commits     ████████████░░░░░░░░░░░░░   47.95% 
+🌃 Evening    39 commits     ██████░░░░░░░░░░░░░░░░░░░   26.71% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
+
 ```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
+Tuesday      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
+Wednesday    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
+Thursday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
+Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.01% 
+Saturday     37 commits     ██████░░░░░░░░░░░░░░░░░░░   25.34% 
+Sunday       33 commits     █████░░░░░░░░░░░░░░░░░░░░   22.6%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   5 repos             ███████████████░░░░░░░░░░   62.5% 
+HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ---
