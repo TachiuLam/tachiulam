@@ -1,4 +1,4 @@
-<h2>Hi there 😶, I'am Tachiu Lam <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/aisi.gif" width="80"></h2>
+<h2>Hi there 😶, I'am Tachiu Lam <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/pikachu.gif" width="70"></h2>
 
 <img align='right' src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/coding2.GIF" width="230">
 
@@ -38,7 +38,7 @@ tachiulam = {
 ```
 ---
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Languages and Tools：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/aisi.gif" width="60"> Languages and Tools：
 
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -57,10 +57,9 @@ tachiulam = {
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/sabo.gif" width="60"> Gihthub Stats：
 
 <a href="https://github.com/TachiuLam/TachiuLam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" width="600"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" />
 </a>
 
----
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
