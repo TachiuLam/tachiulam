@@ -60,6 +60,7 @@ tachiulam = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" />
 </a>
 
+---
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
