@@ -31,7 +31,7 @@ tachiulam = {
         devOps: ["Kubernetes", "Docker🐳", "Kong", "Centos", "Ubuntu"],
         middleware: ["Nginx", "Redis", "RabbitMQ", "Elasticsearch", "Filebeat", "Kibana"，"Harbor", "Rancher"]
         databases: ["PostgreSQL", "MySql", "Sqlite"],
-        misc: ["suricate", "celery", "selenium", "brupsuite", "sqlmap", "masscan", "nmap"]
+        misc: ["suricate", "celery", "selenium", "brupsuite", "sqlmap", "masscan", "nmap", "dirscan"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
