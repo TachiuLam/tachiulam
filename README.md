@@ -18,7 +18,7 @@ tachiulam = {
     pronouns: "He" | "Him",
     graduatedFrom: "GDUT"
     interestIn: ["web dev", "tech", "web penetration testing", "basketball"],
-    code: ["Python", "Javascript", "PHP"],
+    code: ["Python", "Javascript", "Goland"],
     technologies: {
         testing: ["web penetration testing", "android app penetration testing"],
         frontEnd: {
