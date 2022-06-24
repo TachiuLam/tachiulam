@@ -18,7 +18,7 @@ tachiulam = {
     pronouns: "He" | "Him",
     graduatedFrom: "GDUT"
     interestIn: ["web dev", "tech", "web penetration testing", "basketball"],
-    code: ["Python", "Javascript", "PHP"],
+    code: ["goland", "python", "javascript"],
     technologies: {
         testing: ["web penetration testing", "android app penetration testing"],
         frontEnd: {
@@ -26,12 +26,13 @@ tachiulam = {
             css: ["layui", "element-ui"]
         },
         backEnd: {
-            python: ["django", "django-rest-framework", "flask"]
+            python: ["django", "django-rest-framework", "flask"],
+            goland: ["grpc", ]
         },
         devOps: ["Kubernetes", "Docker🐳", "Kong", "Centos", "Ubuntu"],
         middleware: ["Nginx", "Redis", "RabbitMQ", "Elasticsearch", "Filebeat", "Kibana"，"Harbor", "Rancher"]
-        databases: ["MySql", "sqlite"],
-        misc: ["suricate", "celery", "selenium", "brupsuite", "sqlmap", "masscan", "nmap"]
+        databases: ["MySql", "sqlite", "postgresql"],
+        misc: ["suricate", "celery", "selenium", "brupsuite", "sqlmap", "masscan", "nmap", "protocbuf"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
