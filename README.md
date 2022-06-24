@@ -1,4 +1,4 @@
-<h2>Hi there 😶, I'am Tachiu Lam <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/aisi.gif" width="80"></h2>
+<h2>Hi there 😶, I'am Tachiu Lam <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/pikachu.gif" width="70"></h2>
 
 <img align='right' src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/coding2.GIF" width="230">
 
@@ -39,7 +39,7 @@ tachiulam = {
 ```
 ---
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Languages and Tools：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/aisi.gif" width="60"> Languages and Tools：
 
 
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -55,24 +55,26 @@ tachiulam = {
 
 ---
 
-### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/sabo.gif" width="60"> Gihthub Stats：
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/sabo.gif" width="60"> General Stats：
 
 <a href="https://github.com/TachiuLam/TachiuLam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" width="600"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" />
 </a>
 
 ---
 
+### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Detail Stats：
+
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20471%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 112 Contributions in the Year 2021
+> 🏆 115 Contributions in the Year 2021
  > 
-> 📦 74.1 kB Used in Github's Storage 
+> 📦 74.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,22 +85,22 @@ tachiulam = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    33 commits     █████░░░░░░░░░░░░░░░░░░░░   22.3% 
-🌆 Daytime    72 commits     ████████████░░░░░░░░░░░░░   48.65% 
-🌃 Evening    39 commits     ██████░░░░░░░░░░░░░░░░░░░   26.35% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+🌞 Morning    35 commits     █████░░░░░░░░░░░░░░░░░░░░   23.18% 
+🌆 Daytime    72 commits     ████████████░░░░░░░░░░░░░   47.68% 
+🌃 Evening    40 commits     ██████░░░░░░░░░░░░░░░░░░░   26.49% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
-Tuesday      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14% 
-Wednesday    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
-Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
-Saturday     37 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Sunday       35 commits     ██████░░░░░░░░░░░░░░░░░░░   23.65%
+Monday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
+Tuesday      16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
+Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
+Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
+Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+Saturday     37 commits     ██████░░░░░░░░░░░░░░░░░░░   24.5% 
+Sunday       35 commits     █████░░░░░░░░░░░░░░░░░░░░   23.18%
 
 ```
 
