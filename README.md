@@ -42,7 +42,7 @@ tachiulam = {
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/aisi.gif" width="60"> Languages and Tools：
 
 
-<code><img height="60" src="https://cn.bing.com/images/search?view=detailV2&ccid=Df55f3A0&id=6BE75AF42E8603EF8B05C7B5B53F9E5AA3CA3D11&thid=OIP.Df55f3A0Jmi4VVbk0hShJgAAAA&mediaurl=https%3a%2f%2fts1.cn.mm.bing.net%2fth%2fid%2fR-C.0dfe797f70342668b85556e4d214a126%3frik%3dET3Ko1qeP7W1xw%26riu%3dhttp%253a%252f%252fgalwaydevops.com%252fwp-content%252fuploads%252f2017%252f08%252fgolang2.png%26ehk%3dys7WWmTiptg%252fbCajq5APJZyXD5kaK4r4AkD6D5Useuc%253d%26risl%3d%26pid%3dImgRaw%26r%3d0%26sres%3d1%26sresct%3d1%26srh%3d799%26srw%3d852&exph=287&expw=306&q=golang&simid=607989076819997118&FORM=IRPRST&ck=8B2DBCD16C42D412000A55510EBC3983&selectedIndex=17&ajaxhist=0&ajaxserp=0"></img></code>
+<code><img height="60" src="https://ts1.cn.mm.bing.net/th/id/R-C.0dfe797f70342668b85556e4d214a126?rik=ET3Ko1qeP7W1xw&riu=http%3a%2f%2fgalwaydevops.com%2fwp-content%2fuploads%2f2017%2f08%2fgolang2.png&ehk=ys7WWmTiptg%2fbCajq5APJZyXD5kaK4r4AkD6D5Useuc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"></img></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
