@@ -17,22 +17,21 @@
 tachiulam = {
     pronouns: "He" | "Him",
     graduatedFrom: "GDUT"
-    interestIn: ["web dev", "tech", "web penetration testing", "basketball"],
+    interestIn: ["web dev", "tech", "web security"],
     code: ["goland", "python", "javascript"],
     technologies: {
-        testing: ["web penetration testing", "android app penetration testing"],
         frontEnd: {
             js: ["Vue"],
             css: ["layui", "element-ui"]
         },
         backEnd: {
             python: ["django", "django-rest-framework", "flask"],
-            goland: ["grpc", ]
+            goland: ["grpc", "drpc", "gin"]
         },
-        devOps: ["Kubernetes", "Docker🐳", "Kong", "Centos", "Ubuntu"],
-        middleware: ["Nginx", "Redis", "RabbitMQ", "Elasticsearch", "Filebeat", "Kibana"，"Harbor", "Rancher"]
-        databases: ["MySql", "sqlite", "postgresql"],
-        misc: ["suricate", "celery", "selenium", "brupsuite", "sqlmap", "masscan", "nmap", "protocbuf"]
+        devOps: ["Kubernetes", "Docker🐳"", "Centos", "Ubuntu"],
+        middleware: ["nginx", "redis", "rabbitMQ", "nsq", "meilisearch", elasticsearch", "filebeat", "kibana"]
+        databases: ["mysql", "sqlite", "postgresql"],
+        misc: ["suricate", "celery", "selenium", "casbin", "protocbuf"]
     },
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
@@ -44,13 +43,6 @@ tachiulam = {
 
 <code><img height="60" src="https://camo.githubusercontent.com/fd0abf289930d0a41261e4c6305bcdd073a50130e9680e379f9ef3972ed756b7/68747470733a2f2f7473312e636e2e6d6d2e62696e672e6e65742f74682f69642f522d432e30646665373937663730333432363638623835353536653464323134613132363f72696b3d4554334b6f317165503757317877267269753d6874747025336125326625326667616c7761796465766f70732e636f6d25326677702d636f6e74656e7425326675706c6f616473253266323031372532663038253266676f6c616e67322e706e672665686b3d79733757576d54697074672532666243616a713541504a5a795844356b614b347234416b443644355573657563253364267269736c3d267069643d496d6752617726723d3026737265733d31267372657363743d31"></img></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="60" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 
 
