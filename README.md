@@ -13,7 +13,7 @@
 
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/joba5.gif" width="60"> Personal Stuffs：
 
-```python3
+```javascript
 tachiulam = {
     pronouns: "He" | "Him",
     graduatedFrom: "GDUT"
@@ -29,7 +29,7 @@ tachiulam = {
             golang: ["grpc", "drpc", "gin"]
         },
         devOps: ["Kubernetes", "Docker🐳", "Centos", "Ubuntu"],
-        middleware: ["nginx", "redis", "rabbitMQ", "nsq", "meilisearch", "elasticsearch", "filebeat", "kibana"]
+        middleware: ["nginx", "redis", "rabbitMQ", "nsq", "meilisearch", "elasticsearch", "filebeat", "kibana"],
         databases: ["mysql", "sqlite", "postgresql"],
         misc: ["suricate", "celery", "selenium", "casbin", "protocbuf"]
     },
@@ -51,89 +51,16 @@ tachiulam = {
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/sabo.gif" width="60"> General Stats：
 
 <a href="https://github.com/TachiuLam/TachiuLam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
 
+<a href="https://github.com/TachiuLam/TachiuLam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiulam&layout=compact&theme=tokyonight" />
+</a>
 ---
 
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Detail Stats：
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20471%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 115 Contributions in the Year 2021
- > 
-> 📦 74.2 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 9 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    35 commits     █████░░░░░░░░░░░░░░░░░░░░   23.18% 
-🌆 Daytime    72 commits     ████████████░░░░░░░░░░░░░   47.68% 
-🌃 Evening    40 commits     ██████░░░░░░░░░░░░░░░░░░░   26.49% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-Tuesday      16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
-Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
-Thursday     11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
-Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
-Saturday     37 commits     ██████░░░░░░░░░░░░░░░░░░░   24.5% 
-Sunday       35 commits     █████░░░░░░░░░░░░░░░░░░░░   23.18%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos             ███████████████░░░░░░░░░░   62.5% 
-HTML                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
 
 ---
 
