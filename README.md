@@ -26,7 +26,7 @@ tachiulam = {
         },
         backEnd: {
             python: ["django", "django-rest-framework", "flask"],
-            goland: ["grpc", "drpc", "gin"]
+            golang: ["grpc", "drpc", "gin"]
         },
         devOps: ["Kubernetes", "Docker🐳", "Centos", "Ubuntu"],
         middleware: ["nginx", "redis", "rabbitMQ", "nsq", "meilisearch", "elasticsearch", "filebeat", "kibana"]
