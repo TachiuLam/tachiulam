@@ -55,9 +55,9 @@ tachiulam = {
 </a>
 
 <a href="https://github.com/TachiuLam/TachiuLam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiulam&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachiulam&layout=compact&theme=tokyonight&&hide=javascript,html,css,ejs" />
 </a>
----
+
 
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Detail Stats：
 
