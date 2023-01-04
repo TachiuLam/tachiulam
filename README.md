@@ -4,9 +4,9 @@
 
 <p><em>My blog is <a href="https://tclam.cn">here</a>, and mail: techaolin@gmail.com </em></p>
 
-[![Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtachiulam&style=?style=flat-square)](https://github.com/tachiulam)
-[![Followers](https://img.shields.io/badge/dynamic/json?logo=zhihu&label=知乎&labelColor=495867&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dtachiulam&style=?style=flat-square)](https://zhihu.com/people/tachiulam)
-[![Views](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F?username=tachiulam&style=flat-square)](https://github.com/tachiulam)
+[![Github Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=495867&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtachiulam&style=?style=flat-square)](https://github.com/tachiulam)
+[![Zhihu Followers](https://img.shields.io/badge/dynamic/json?logo=zhihu&label=Followers&labelColor=495867&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dtachiulam&style=?style=flat-square)](https://zhihu.com/people/tachiulam)
+[![Github Views](https://img.shields.io/badge/dynamic/json?logo=github&label=Views&labelColor=495867&color=95B8D1&query=%24.data.totalSubs&url=https://komarev.com/ghpvc/?username=tachiulam&style=flat-square)](https://github.com/tachiulam)
 
 ---
 
