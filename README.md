@@ -55,11 +55,12 @@ tachiulam = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tachiulam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </a>
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=tachiulam&api_domain=wakapi.einverne.info&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Most%20Used%20Languages&layout=compact)
+[//]: # (![]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=tachiulam&api_domain=wakapi.einverne.info&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Most%20Used%20Languages&layout=compact&#41;)
 
 
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Detail Stats：
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
