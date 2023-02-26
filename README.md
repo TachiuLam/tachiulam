@@ -60,9 +60,9 @@ tachiulam = {
 
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124.0%20thousand%20lines%20of%20code-blue)
 
@@ -105,22 +105,22 @@ Sunday                   75 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       4 hrs               ████████████████████████░   95.90 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Go                       3 hrs 29 mins       ████████████████████████░   95.32 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 10 mins       █████████████████████████   100.00 % 
+GoLand                   3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-f-king-algorithm         4 hrs 2 mins        ████████████████████████░   96.64 % 
-dacing-community         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-maze                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-dancing-community        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+f-king-algorithm         3 hrs 31 mins       ████████████████████████░   96.02 % 
+dacing-community         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+maze                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+dancing-community        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      4 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -140,7 +140,7 @@ EJS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2023 02:38:49 UTC
+ Last Updated on 26/02/2023 02:47:18 UTC
 <!--END_SECTION:waka-->
 
 ---
