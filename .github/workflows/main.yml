@@ -20,3 +20,4 @@ jobs:
           SHOW_LANGUAGE: true
           SHOW_SHORT_INFO: true
           SHOW_LOC_CHART: true
+          SYMBOL_VERSION: 3
