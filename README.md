@@ -60,7 +60,7 @@ tachiulam = {
 
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,19 +105,19 @@ Sunday                   136 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 2 mins        █████████████████████████   98.45 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Go                       2 hrs 8 mins        █████████████████████████   98.49 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-GoLand                   2 hrs 4 mins        █████████████████████████   100.00 % 
+GoLand                   2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-maze                     2 hrs 4 mins        █████████████████████████   100.00 % 
+maze                     2 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -137,7 +137,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2023 03:02:34 UTC
+ Last Updated on 02/06/2023 02:40:07 UTC
 <!--END_SECTION:waka-->
 
 ---
