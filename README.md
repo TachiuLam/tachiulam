@@ -60,7 +60,7 @@ tachiulam = {
 
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,16 +105,16 @@ Sunday                   136 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+maze                     8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -134,7 +134,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2023 02:56:36 UTC
+ Last Updated on 02/07/2023 02:53:37 UTC
 <!--END_SECTION:waka-->
 
 ---
