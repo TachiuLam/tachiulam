@@ -60,7 +60,7 @@ tachiulam = {
 
 ### <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/lz.gif" width="60"> Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -105,16 +105,20 @@ Sunday                   136 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       5 mins              ████████████████░░░░░░░░░   65.41 % 
+Text                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Docker                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Makefile                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+etlgo                    8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -134,7 +138,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2023 02:52:07 UTC
+ Last Updated on 11/07/2023 02:41:35 UTC
 <!--END_SECTION:waka-->
 
 ---
