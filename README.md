@@ -1,7 +1,6 @@
 <h2>Hi there 😶, I'am Tachiu Lam <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/pikachu.gif" width="70"></h2>
 
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TachiuLam/tachiulam/dev/static/img/coding-freak.gif?raw=true" width="280" height="210"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/cording.gif?raw=true" width="210" height="140"/>
 
 <p><em>My blog is <a href="https://tclam.cn">here</a>, and mail: techaolin@gmail.com </em></p>
 
