@@ -1,6 +1,7 @@
 <h2>Hi there 😶, I'am Tachiu Lam <img src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/pikachu.gif" width="70"></h2>
 
-<img align='right' src="https://raw.githubusercontent.com/TachiuLam/tachiulam/master/static/img/coding2.GIF" width="230">
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TachiuLam/tachiulam/dev/static/img/coding-freak.gif?raw=true" width="210" height="140"/>
 
 <p><em>My blog is <a href="https://tclam.cn">here</a>, and mail: techaolin@gmail.com </em></p>
 
@@ -9,8 +10,6 @@
 [![Github Views](https://komarev.com/ghpvc/?username=tachiulam&style=flat&color=blueviolet&label=Github+Views&logo=github)](https://github.com/tachiulam)
 
 ---
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TachiuLam/tachiulam/dev/static/img/coding-freak.gif?raw=true" width="420" height="280" />
 
 ###  Personal Stuffs：
 
