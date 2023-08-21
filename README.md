@@ -10,6 +10,8 @@
 
 ---
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/TachiuLam/tachiulam/dev/static/img/coding-freak.gif?raw=true" width="420" height="280" />
+
 ###  Personal Stuffs：
 
 ```javascript
