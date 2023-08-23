@@ -56,7 +56,7 @@ tachiulam = {
 
 ### Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
@@ -101,16 +101,18 @@ Sunday                   134 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       30 mins             █████████████████████████   100.00 % 
+Go                       1 hr 16 mins        ███████████████████████░░   91.53 % 
+Docker                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 🔥 Editors: 
-GoLand                   30 mins             █████████████████████████   100.00 % 
+GoLand                   1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-skilltree                30 mins             █████████████████████████   100.00 % 
+skilltree                1 hr 16 mins        ███████████████████████░░   91.53 % 
+syslog-gen               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -130,7 +132,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2023 02:02:07 UTC
+ Last Updated on 23/08/2023 02:01:16 UTC
 <!--END_SECTION:waka-->
 
 ---
