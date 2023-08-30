@@ -101,18 +101,16 @@ Sunday                   134 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       45 mins             ██████████████████████░░░   86.56 % 
-Docker                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-skilltree                45 mins             ██████████████████████░░░   86.56 % 
-syslog-gen               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -132,7 +130,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2023 02:33:52 UTC
+ Last Updated on 30/08/2023 02:03:01 UTC
 <!--END_SECTION:waka-->
 
 ---
