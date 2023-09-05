@@ -56,17 +56,17 @@ tachiulam = {
 
 ### Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-189.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-189.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 84.7 kB Used in GitHub's Storage 
  > 
-> 🏆 257 Contributions in the Year 2023
+> 🏆 258 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,19 +77,19 @@ tachiulam = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                372 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-🌆 Daytime                835 commits         ███████████░░░░░░░░░░░░░░   45.43 % 
-🌃 Evening                521 commits         ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+🌞 Morning                372 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+🌆 Daytime                835 commits         ███████████░░░░░░░░░░░░░░   45.41 % 
+🌃 Evening                522 commits         ███████░░░░░░░░░░░░░░░░░░   28.38 % 
 🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Tuesday                  298 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Wednesday                398 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Thursday                 397 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Friday                   266 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Monday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Tuesday                  298 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                398 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Thursday                 397 commits         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Friday                   266 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 Saturday                 121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
@@ -101,16 +101,16 @@ Sunday                   134 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+skilltree                10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -130,7 +130,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2023 02:03:39 UTC
+ Last Updated on 05/09/2023 02:01:34 UTC
 <!--END_SECTION:waka-->
 
 ---
