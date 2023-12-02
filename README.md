@@ -56,7 +56,7 @@ tachiulam = {
 
 ### Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,7 +107,8 @@ Go                       1 hr 43 mins        ███████████�
 GoLand                   1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-etl                      1 hr 43 mins        █████████████████████████   100.00 % 
+etl                      1 hr 43 mins        █████████████████████████   99.58 % 
+skilltree                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
 Mac                      1 hr 43 mins        █████████████████████████   100.00 % 
@@ -130,7 +131,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 02:20:51 UTC
+ Last Updated on 02/12/2023 02:05:45 UTC
 <!--END_SECTION:waka-->
 
 ---
