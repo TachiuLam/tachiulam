@@ -56,7 +56,7 @@ tachiulam = {
 
 ### Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -64,9 +64,7 @@ tachiulam = {
 
 **🐱 My GitHub Data** 
 
-> 📦 85.4 kB Used in GitHub's Storage 
- > 
-> 🏆 34 Contributions in the Year 2024
+> 📦 85.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,16 +99,17 @@ Sunday                   151 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 mins              █████████████████████████   100.00 % 
+Go                       4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GoLand                   2 mins              █████████████████████████   100.00 % 
+GoLand                   4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-suricate-go              2 mins              █████████████████████████   100.00 % 
+suricate-go              2 mins              ████████████████░░░░░░░░░   64.22 % 
+f-king-algorithm         1 min               █████████░░░░░░░░░░░░░░░░   35.78 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -130,7 +129,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2024 02:05:04 UTC
+ Last Updated on 29/03/2024 02:02:21 UTC
 <!--END_SECTION:waka-->
 
 ---
