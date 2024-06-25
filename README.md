@@ -66,6 +66,8 @@ tachiulam = {
 
 > 📦 85.4 kB Used in GitHub's Storage 
  > 
+> 🏆 35 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -99,18 +101,16 @@ Sunday                   132 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       6 mins              █████████████████████████   98.73 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-suricate-go              6 mins              █████████████████████████   98.73 % 
-etlgo                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
@@ -130,7 +130,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2024 02:21:03 UTC
+ Last Updated on 25/06/2024 02:18:15 UTC
 <!--END_SECTION:waka-->
 
 ---
