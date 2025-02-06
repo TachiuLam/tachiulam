@@ -56,7 +56,7 @@ tachiulam = {
 
 ### Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -101,16 +101,23 @@ Sunday                   305 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 56 mins        ████████████████░░░░░░░░░   62.14 % 
+Text                     54 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+go.mod                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   3 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+suricate-go              2 hrs 57 mins       ████████████████████████░   94.64 % 
+HCNetSDK_golang          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+etlgo                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+callback-handler         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -130,7 +137,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 02:36:03 UTC
+ Last Updated on 06/02/2025 02:36:25 UTC
 <!--END_SECTION:waka-->
 
 ---
