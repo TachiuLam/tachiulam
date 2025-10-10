@@ -12,9 +12,9 @@
 
 ### Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C165%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -57,16 +57,24 @@ Sunday                   305 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       3 hrs 37 mins       ████████████████████░░░░░   78.77 % 
+Protocol Buffer          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+protobuf                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   4 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+scalevpn                 2 hrs 13 mins       ████████████░░░░░░░░░░░░░   48.38 % 
+scaleadmin               1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+corevpn                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+coreadmin                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+core-app                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -86,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2025 02:47:08 UTC
+ Last Updated on 10/10/2025 02:47:58 UTC
 <!--END_SECTION:waka-->
 
 ---
