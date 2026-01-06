@@ -12,9 +12,11 @@
 
 ### Detail Stats：
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C514%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,16 +57,24 @@ Sunday                   305 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       7 hrs 58 mins       ████████████████████░░░░░   79.83 % 
+YAML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Protocol Buffer          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   9 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+smartlink-solution       3 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   38.01 % 
+sls-proxy                2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+core-app                 1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+algorithm-parameter-adjus1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+callback-handler         46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -84,7 +94,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 03:27:56 UTC
+ Last Updated on 06/01/2026 03:17:35 UTC
 <!--END_SECTION:waka-->
 
 ---
