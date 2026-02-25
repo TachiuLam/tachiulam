@@ -12,7 +12,7 @@
 
 ### Detail Stats：
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C626%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,16 +57,19 @@ Sunday                   305 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 5 mins              █████████████████████░░░░   83.41 % 
+Makefile                 1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+iot                      5 mins              █████████████████████░░░░   83.41 % 
+callback-handler         1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -86,7 +89,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/TachiuLam/TachiuLam/master/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2026 04:00:43 UTC
+ Last Updated on 25/02/2026 04:01:52 UTC
 <!--END_SECTION:waka-->
 
 ---
